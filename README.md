@@ -1,4 +1,4 @@
-# gameOfWar
+# Game Of War
 
 The goal of this project is to create an app for a card game called War. The main activity of the game will be a game called War. 
 The secondary activity will use SQL or SQLite to keep track of and display the wins and losses for players of the game. There 
